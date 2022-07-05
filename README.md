@@ -1,4 +1,4 @@
-#Signup&LoginForm 
+# Signup & Login Form 
 
 Signup and login form  using Html, Css, Javascript, Ajax, Php and Mysql.
 
