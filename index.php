@@ -17,9 +17,8 @@
 	<section class="form signup">
 		<header>SignUp or Login</header>
 
-
-		<div class="link">Have an account? <a href="login.php">Login Now</a></div>
-        <div class="link">Already signed Up? <a href="sigup.php">Login Now</a></div>
+		<div class="link">Already Have an account? <a href="login.php">Login</a></div>
+        <div class="link">Don't have an Account? <a href="signup.php">Sign Up</a></div>
 		
 	</section>
 	
@@ -28,4 +27,4 @@
 
 
 </body>
-</html> 
+</html>

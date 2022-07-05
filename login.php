@@ -15,7 +15,7 @@
     
 <div class="wrapper">
 	<section class="form login">
-		<header>tLogin</header>
+		<header>Login</header>
 
 		<form action="" method="">
 			<div class="error-txt"></div>
