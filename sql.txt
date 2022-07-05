@@ -1,0 +1,15 @@
+1. CREATE DATABASE WITH NAME :  Signup&Login;
+2. CREATE TABLE users using the codes below:
+
+
+
+CREATE TABLE users (
+	user_id int(11) PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    unique_id int(200) NOT NULL,
+    firstname varchar(255) NOT NULL,
+    lastname varchar(255) NOT NULL,
+    email varchar(255) NOT NULL,
+    password varchar(255) NOT NULL,
+    img varchar(400) NOT NULL,
+    status varchar(255) NOT NULL  
+)
